@@ -8,4 +8,4 @@ the flying dinos coming. Thus I can't get passed a certain score.
 
 ## Required NuGet packages:  
 - InputSimulator (tested on v1.0.4)
-- System.Drawing.Common
+- System.Drawing.Common (tested on v4.7.0)
